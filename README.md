@@ -2,7 +2,7 @@
 
 - 💻 Atualmente estou trabalhando com front-end
 - 🌱 Estudando Javascript
-- 📧 Contate-me no e-mail: lucasbpramalhor@gmail.com
+- 📧 Contate-me no e-mail: dev.lucasramalho@hotmail.com
 
 
  <div>
