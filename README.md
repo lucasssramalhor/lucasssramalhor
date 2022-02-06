@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lucas Ramalho
 
-- 💻 Atualmente estou trabalhando com front-end e sou instrutor Python da Devs Academy
+- 💻 Atualmente estou trabalhando com front-end e sou instrutor e co produtor do curso de Python da Devs Academy
 - 🌱 Estudando Angular
 - 📧 Contate-me no e-mail: dev.lucasramalho@hotmail.com
 
