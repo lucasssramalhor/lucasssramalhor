@@ -1,8 +1,9 @@
 ## Olá! Eu sou o Lucas Ramalho
 
-- 💻 Atualmente estou trabalhando com front-end e sou instrutor e co produtor do curso de Python da Devs Academy
-- 🌱 Estudando Angular
-- 📧 Contate-me no e-mail: dev.lucasramalho@hotmail.com
+- 💻 Atualmente estou trabalhando com testes e testes automatizados no INDT
+- 🌱 Estudando Cypress
+- 📧 Contate-me no e-mail: lucasbramalho@hotmail.com
+- 🎓 Nas horas vagas trabalho com atendimento de recuperação de notebooks e PCs em geral
 
 
  <div>
@@ -23,11 +24,9 @@
   ##
   
   <div>
-  <a href="https://www.youtube.com/channel/UCepCjB3bkAz0geadb1zgaPg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/lucasb_ramalho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.tiktok.com/@lucasramalhor?lang=pt-BR" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/lucasramalho._" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/c9hfZKAH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lucasbpramalhor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lucasbramalhor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-ramalho-7a00a1210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
