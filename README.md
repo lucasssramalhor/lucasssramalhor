@@ -2,7 +2,7 @@
 
 - 💻 Atualmente estou trabalhando com testes e testes automatizados no INDT
 - 🌱 Estudando Cypress
-- 📧 Contate-me no e-mail: lucasbramalho@hotmail.com
+- 📧 Contate-me no e-mail: lucasbramalho@gmail.com
 - 🎓 Nas horas vagas trabalho com atendimento de recuperação de notebooks e PCs em geral
 
 
